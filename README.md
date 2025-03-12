@@ -14,8 +14,8 @@
 ####### h8
 
 bullet use []()
-- [Youtube](https://www.youtube.com/teerasej)
-- [Facebook](https://www.facebook.com/teerasej) 
+- [Youtube](https://www.youtube.com/)
+- [Facebook](https://www.facebook.com/) 
 - Email: [training@nextflow.in.th](mailto:training@nextflow.in.th)
 
 ## สารบัญ
